@@ -15,5 +15,5 @@ Natural Language to SQL Query Generator using Python and Gradio.
 - SQLite
 - Transformers
 
-#lIVE DEMO
+#LIVE DEMO
 https://67090802d2727f63aa.gradio.live
